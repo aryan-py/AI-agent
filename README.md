@@ -29,6 +29,7 @@ This project is built with:
 - Vite
 - TypeScript
 - React
+- Langchain
 - shadcn-ui
 - Tailwind CSS
 
