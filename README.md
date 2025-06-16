@@ -21,6 +21,7 @@ npm install
 npm run dev
 ```
 
+You can find the Agent config file at ```src/pages/Config.tsx```
 ## What technologies are used for this project?
 
 This project is built with:
